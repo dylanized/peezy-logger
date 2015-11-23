@@ -1,2 +1,2 @@
 # peezy-logger
-Simple console logging utility
+A simple console logging utility

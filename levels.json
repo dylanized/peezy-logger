@@ -1,0 +1,52 @@
+[
+	{
+		"label": "silent",
+		"color": "black",
+		"num": 0
+	},
+	{
+		"label": "fatal",
+		"color": "magenta",
+		"num": 1
+	},
+	{
+		"label": "error",
+		"color": "red",
+		"num": 2
+	},
+	{
+		"label": "warn",
+		"color": "yellow",
+		"num": 3
+	},
+	{
+		"label": "notice",
+		"color": "gray",
+		"num": 4
+	},
+	{
+		"label": "status",
+		"color": "white",
+		"num": 5
+	},
+	{
+		"label": "info",
+		"color": "blue",
+		"num": 6
+	},
+	{
+		"label": "detail",
+		"color": "green",
+		"num": 7
+	},
+	{
+		"label": "debug",
+		"color": "gray",
+		"num": 8
+	},
+	{
+		"label": "trace",
+		"color": "gray",
+		"num": 9
+	}		
+]
